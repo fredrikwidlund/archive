@@ -1,0 +1,9 @@
+* notify
+* event
+* queue
+* keep thread states in reactor list
+* dynamic primitives
+* stream optionally close fd?
+* server dynamic field count?
+* server maximum request size?
+* async resolver state?
